@@ -24,14 +24,17 @@ When logging in on a modified package, choose the **phone number login** (手机
 
 The demonstration uses **MT Manager** as the APK modification tool.
 
+> [!WARNING]
 > After modification, you must uninstall the original version first, then install the modified APK. This is because the signature of the modified APK does not match the official version, and Android will refuse to install it.
 >
 > It is recommended to back up your local saves to the cloud before uninstalling.
 
+> [!WARNING]
 > Only the official Bilibili Game version has been verified. Channel versions may have additional signature verification or other integrity checks.
 
 ## Global Version
 
+> [!IMPORTANT]
 > Modding the original package (the genuine version downloaded from Google Play) is **extremely difficult**. The most viable approach for modding is to first bypass or remove Pairip from the package, and ideally merge all original PAK resources into a single APK's internal assets directory (bypassing PAD), which makes subsequent modifications much easier.
 
 The Global version uses **Split APK**. The bundled PAK files included with the package are located in the `split_AssetPackMain.apk` split package. Additionally, it uses **Google Play Asset Delivery (PAD)** to deliver extra assets beyond what is bundled. PAD assets are loaded from a separate directory, and each PAD pack has a hardcoded limit of only `res.pak` through `res5.pak` (6 files max). The split APK assets and PAD assets are independent — PAD cannot fill gaps in the APK asset numbering.
@@ -50,5 +53,6 @@ The Global version is protected by **Pairip** (Google's Automatic Integrity Prot
 
 Once Pairip has been bypassed or removed from the package and all original PAK files have been merged into the APK assets, the process is essentially the same as the Chinese mainland version. This approach is recommended because PAK files loaded from the APK assets directory use dynamic continuous numbering with no upper limit, avoiding the PAD hardcoded limit of only `res.pak` through `res5.pak`.
 
+> [!WARNING]
 > Versions that bundle game data (including PAD data) as external OBB-like archives have not been tested.
 

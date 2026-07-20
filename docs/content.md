@@ -28,8 +28,10 @@ Aside from the official Bilibili channel, Bilibili Game also distributes the gam
 |---------------|--------------|
 | ![Not logged in](assets/Screenshot_2026-07-04-19-55-28-02_0715d4e5d0806f4dfa5884f7c8c92547.jpg) | ![Login prompt](assets/Screenshot_2026-07-04-20-01-08-05_0715d4e5d0806f4dfa5884f7c8c92547.jpg) |
 
+> [!WARNING]
 > Because login is required to enter the game, the Chinese mainland version cannot be played while completely offline.
 
+> [!IMPORTANT]
 > If the real-name verified age is under 18, the game's **anti-addiction system** will be enforced: gameplay is limited to 1 hour per day, only on Fridays, Saturdays, Sundays, and statutory holidays from 20:00 to 21:00 (UTC+8). No game services are provided to minors at any other time. Players aged 18 and above are not restricted.
 
 ## Cloud Saves
@@ -41,6 +43,7 @@ In the Chinese mainland version, cloud saves are **manually uploaded** by the pl
 
 In the Global version, cloud saves rely on the **Google Play Games** cloud save system (stored in Google Drive) and sync **automatically**.
 
+> [!NOTE]
 > For the Global version, a Google Play Games account login is required to use cloud saves.
 
 Chinese Mainland Version:

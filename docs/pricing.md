@@ -1,5 +1,6 @@
 # Pricing Differences
 
+> [!NOTE]
 > Global version pricing is based on the Google Play US region as an example.
 
 | Content | Chinese Mainland Version | Global Version |
@@ -17,6 +18,7 @@
 
 A special bundle unique to the Chinese mainland version that includes the base game and all DLCs.
 
+> [!IMPORTANT]
 > Only open to new players who have never purchased any content from "Dead Cells" and have only one chance to purchase.
 
 **"The Journey to the Sea" Bundle** — ¥34 CNY (~$5 USD)
