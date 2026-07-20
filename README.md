@@ -16,7 +16,8 @@ Download: [Bilibili Game](https://app.biligame.com/page/detail_share.html?id=103
 > [!NOTE]
 > The download link provided is for the official **Bilibili Game** channel only. Versions from other Chinese application distribution platforms (channel versions) are not covered.
 
-The Chinese mainland version is titled **"Rebirth Cells"** (重生细胞) to facilitate game approval and obtain the required publication license (版号) for operating in mainland China.
+> [!NOTE]
+> The Chinese mainland version is titled **"Rebirth Cells"** (重生细胞) to facilitate game approval and obtain the required publication license (版号) for operating in mainland China.
 
 > [!TIP]
 > On Android, the Chinese mainland version offers a free trial that allows players to explore the **Prisoners' Quarters** biome and play up to the first rest area. The iOS version does not include a trial mode.
