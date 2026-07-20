@@ -33,4 +33,5 @@ Download: [Google Play](https://play.google.com/store/apps/details?id=com.playdi
 - [Pricing Differences](docs/pricing.md)
 - [Content Differences](docs/content.md)
 - [Modding Difficulty](docs/modding.md)
+- [Mod Development Notes](docs/mod-development.md)
 
